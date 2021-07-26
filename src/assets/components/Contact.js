@@ -8,13 +8,16 @@ function Contact() {
                 <div class="info">
                     <ul>
                         <li>
-                            <a href="https://github.com/stevenstefanov" target="_blank"><i class="fab fa-github"></i></a>
+                            <a href="https://github.com/stevenstefanov" title="Github" target="_blank"><i class="fab fa-github"></i></a>
                         </li>
                         <li>
-                            <a href="https://www.linkedin.com/in/steven-stefanov/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="https://www.linkedin.com/in/steven-stefanov/" title="LinkedIn" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                         </li>
                         <li>
-                            < a href="/files/Steven_Stefanov_Resume.pdf" target="_blank" download><i class="fas fa-file-alt"></i></a>
+                            <a href="mailto:stefanovsteven@gmail.com" title="Email" target="_blank"><i class="fas fa-envelope"></i></a>
+                        </li>
+                        <li>
+                            < a href="/files/Steven_Stefanov_Resume.pdf" title="Resume" target="_blank" download><i class="fas fa-file-alt"></i></a>
                         </li>
                     </ul>
                 </div>
