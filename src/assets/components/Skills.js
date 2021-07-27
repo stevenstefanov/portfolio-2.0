@@ -4,7 +4,7 @@ function Skills() {
     return (
         <section>
             <div id="skills" class="section page">
-                <p>Technical Skills:</p>
+                <p>My technical skills are:</p>
                 <div class="info">
                     <ul>
                         <li>

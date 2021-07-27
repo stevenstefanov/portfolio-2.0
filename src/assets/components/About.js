@@ -8,13 +8,13 @@ function About() {
 
             <section>
                 <div class="page">
-                    <p><span class="bigger">Hello,</span><br></br> my name is Steven Stefanov</p>
+                    <p><span className="bigger">Hello</span><span className="comma">,</span><br></br>my name is Steven Stefanov</p>
                 </div>
             </section>
 
             <section>
                 <div class="page">  
-                    <p>I am learning to become a full stack web developer at Columbia University's Coding Bootcamp</p>
+                    <p>I am a full stack web developer with a sales background and a passion for collaborating and creating efficient, scalable full stack products</p>
                 </div>
             </section>
 
