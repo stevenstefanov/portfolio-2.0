@@ -32,8 +32,8 @@ section {
   bottom: 0;
   left: 35%;
   background-image: url(./assets/bg-image.jpg);
-  background-image: -webkit-linear-gradient(left, 
-    rgba(226, 223, 223, 0.973) 2%, 
+  background-image: -webkit-linear-gradient(left,
+    rgba(226, 223, 223, 0.973) 2%,
     rgba(201, 192, 192, 0.356) 20%,
     rgba(212, 206, 206, 0) 80%,
     rgba(235, 223, 223, 0) 100%
@@ -62,7 +62,7 @@ section {
   font-weight: 200;
 }
 
-.bigger {
+.big-hello {
   font-size: 350%;
 }
 
@@ -123,7 +123,7 @@ section {
   background-color:rgba(0, 0, 0, 0.9);
   color: rgba(226, 223, 223, 0.973);
   text-align: center;
-  font-size: 90%;  
+  font-size: 90%;
   font-family: 'Helvetica Neue', Arial, sans-serif;
   font-weight: 200;
 }
