@@ -8,8 +8,9 @@ import './assets/components/animation';
 function App() {
   return (
     <div>
-      <div class="bg-photo animation"></div>
-      
+      <div class="bg-photo animation">
+      </div>
+
       <div class="over">
         <Header />
         <Body />

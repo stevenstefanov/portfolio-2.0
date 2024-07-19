@@ -9,6 +9,9 @@ function About() {
             <section>
                 <div class="page">
                     <p><span className="big-hello">Hello</span><span className="comma">,</span><br></br>my name is Steven Stefanov</p>
+                    <div>
+                        <p class="pulsate">Use arrows (&#8673;/&#8675;) to navigate</p>
+                    </div>
                 </div>
             </section>
 
